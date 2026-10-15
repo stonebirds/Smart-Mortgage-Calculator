@@ -1,0 +1,6 @@
+{
+  "name": "Smart Mortgage Calculator & Amortization Plan",
+  "description": "Professional Chinese mortgage calculator with amortization schedule, equal principal vs interest comparison, and early repayment simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
